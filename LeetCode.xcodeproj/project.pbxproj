@@ -16,6 +16,7 @@
 		1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */; };
 		1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */; };
 		1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */; };
+		1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1021. Remove Outermost Parantheses.swift"; sourceTree = "<group>"; };
 		1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words.swift"; sourceTree = "<group>"; };
 		1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "832. Flipping an Image.swift"; sourceTree = "<group>"; };
+		1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */,
 				1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */,
 				1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */,
 				1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */,
+				1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */,
 				1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */,
 				1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */,
 				1959D9D522D821F90050D75E /* 709. To Lower Case.swift in Sources */,
