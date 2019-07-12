@@ -6,6 +6,8 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
-func defangIPaddr(_ address: String) -> String {
+/* Solution */
+
+private func defangIPaddr(_ address: String) -> String {
   return address.replacingOccurrences(of: ".", with: "[.]")
 }

@@ -11,6 +11,9 @@
 		1959D9CF22D714C10050D75E /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9CE22D714C10050D75E /* 1. Two Sum.swift */; };
 		1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D022D717080050D75E /* 1108. Defanging an IP Address.swift */; };
 		1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D222D71CBE0050D75E /* 771. Jewels and Stones.swift */; };
+		1959D9D522D821F90050D75E /* 709. To Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D422D821F90050D75E /* 709. To Lower Case.swift */; };
+		1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */; };
+		1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +34,9 @@
 		1959D9CE22D714C10050D75E /* 1. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
 		1959D9D022D717080050D75E /* 1108. Defanging an IP Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. Defanging an IP Address.swift"; sourceTree = "<group>"; };
 		1959D9D222D71CBE0050D75E /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
+		1959D9D422D821F90050D75E /* 709. To Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. To Lower Case.swift"; sourceTree = "<group>"; };
+		1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "938. Range Sum of BST.swift"; sourceTree = "<group>"; };
+		1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1021. Remove Outermost Parantheses.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +53,9 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */,
+				1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */,
+				1959D9D422D821F90050D75E /* 709. To Lower Case.swift */,
 				1959D9D222D71CBE0050D75E /* 771. Jewels and Stones.swift */,
 				1959D9C722D714B20050D75E /* main.swift */,
 				1959D9D022D717080050D75E /* 1108. Defanging an IP Address.swift */,
@@ -122,7 +131,10 @@
 			files = (
 				1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */,
 				1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */,
+				1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */,
+				1959D9D522D821F90050D75E /* 709. To Lower Case.swift in Sources */,
 				1959D9C822D714B20050D75E /* main.swift in Sources */,
+				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				1959D9CF22D714C10050D75E /* 1. Two Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
