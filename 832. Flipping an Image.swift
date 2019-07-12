@@ -6,7 +6,6 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
-
 /* Solution */
 
 private func flipAndInvertImage(_ A: [[Int]]) -> [[Int]] {

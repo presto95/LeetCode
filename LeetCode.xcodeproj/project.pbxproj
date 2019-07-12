@@ -17,6 +17,10 @@
 		1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */; };
 		1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */; };
 		1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */; };
+		1959D9E122D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E022D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift */; };
+		1959D9E322D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E222D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift */; };
+		1959D9E522D8EB2C0050D75E /* 657. Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E422D8EB2C0050D75E /* 657. Robot Return to Origin.swift */; };
+		1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E622D8EDAD0050D75E /* 728. Self Dividing Numbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +47,10 @@
 		1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words.swift"; sourceTree = "<group>"; };
 		1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "832. Flipping an Image.swift"; sourceTree = "<group>"; };
 		1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. Sort Array By Parity.swift"; sourceTree = "<group>"; };
+		1959D9E022D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "961. N-Repeated Element in Size 2N Array.swift"; sourceTree = "<group>"; };
+		1959D9E222D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
+		1959D9E422D8EB2C0050D75E /* 657. Robot Return to Origin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657. Robot Return to Origin.swift"; sourceTree = "<group>"; };
+		1959D9E622D8EDAD0050D75E /* 728. Self Dividing Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "728. Self Dividing Numbers.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,9 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				1959D9E422D8EB2C0050D75E /* 657. Robot Return to Origin.swift */,
+				1959D9E222D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift */,
+				1959D9E022D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift */,
 				1959D9DE22D87A1A0050D75E /* 905. Sort Array By Parity.swift */,
 				1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */,
 				1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */,
@@ -67,6 +78,7 @@
 				1959D9D422D821F90050D75E /* 709. To Lower Case.swift */,
 				1959D9D222D71CBE0050D75E /* 771. Jewels and Stones.swift */,
 				1959D9C722D714B20050D75E /* main.swift */,
+				1959D9E622D8EDAD0050D75E /* 728. Self Dividing Numbers.swift */,
 				1959D9D022D717080050D75E /* 1108. Defanging an IP Address.swift */,
 				1959D9CE22D714C10050D75E /* 1. Two Sum.swift */,
 				1959D9C522D714B20050D75E /* Products */,
@@ -140,10 +152,14 @@
 			files = (
 				1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */,
 				1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */,
+				1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */,
 				1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */,
 				1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */,
 				1959D9D522D821F90050D75E /* 709. To Lower Case.swift in Sources */,
 				1959D9C822D714B20050D75E /* main.swift in Sources */,
+				1959D9E322D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift in Sources */,
+				1959D9E522D8EB2C0050D75E /* 657. Robot Return to Origin.swift in Sources */,
+				1959D9E122D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift in Sources */,
 				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */,
 				1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */,

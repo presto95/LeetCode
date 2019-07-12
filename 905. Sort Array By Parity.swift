@@ -8,7 +8,6 @@
 
 /* Solution */
 
-
 private func sortArrayByParity(_ A: [Int]) -> [Int] {
   var result = [Int]()
   for element in A {
