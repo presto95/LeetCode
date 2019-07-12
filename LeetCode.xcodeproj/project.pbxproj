@@ -15,6 +15,7 @@
 		1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */; };
 		1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */; };
 		1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */; };
+		1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "938. Range Sum of BST.swift"; sourceTree = "<group>"; };
 		1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1021. Remove Outermost Parantheses.swift"; sourceTree = "<group>"; };
 		1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "804. Unique Morse Code Words.swift"; sourceTree = "<group>"; };
+		1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "832. Flipping an Image.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				1959D9DC22D872B40050D75E /* 832. Flipping an Image.swift */,
 				1959D9DA22D846610050D75E /* 804. Unique Morse Code Words.swift */,
 				1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */,
 				1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */,
@@ -139,6 +142,7 @@
 				1959D9C822D714B20050D75E /* main.swift in Sources */,
 				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */,
+				1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */,
 				1959D9CF22D714C10050D75E /* 1. Two Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
