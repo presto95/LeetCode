@@ -7,8 +7,5 @@
 //
 
 import Foundation
-let emails = ["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
-let mapped = emails.map { $0.components(separatedBy: "+@.") }
-for email in mapped {
-  email.repl
-}
+
+
