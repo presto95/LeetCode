@@ -9,12 +9,14 @@
 /* Solution */
 
 private func flipAndInvertImage(_ A: [[Int]]) -> [[Int]] {
-  return A.flippedHorizontally.inverted
+  return A
+    .flipHorizontally()
+    .invert()
 }
 
 private extension Array where Element == [Int] {
   
-  var flippedHorizontally: [[Int]] {
+  func flipHorizontally() -> [[Int]] {
     var array = self
     let half = count / 2
     for rowIndex in 0..<count {
@@ -25,7 +27,7 @@ private extension Array where Element == [Int] {
     return array
   }
   
-  var inverted: [[Int]] {
+  func invert() -> [[Int]] {
     var array = self
     for row in 0..<count {
       for column in 0..<count {

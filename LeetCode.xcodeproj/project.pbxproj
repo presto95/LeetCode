@@ -23,6 +23,7 @@
 		1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E622D8EDAD0050D75E /* 728. Self Dividing Numbers.swift */; };
 		1959D9E922D9C87A0050D75E /* 461. Hamming Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9E822D9C87A0050D75E /* 461. Hamming Distance.swift */; };
 		1959D9EB22DB7BC30050D75E /* 617. Merge Two Binary Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9EA22DB7BC30050D75E /* 617. Merge Two Binary Trees.swift */; };
+		1959D9ED22DC0CB30050D75E /* 929. Unique Email Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9EC22DC0CB30050D75E /* 929. Unique Email Address.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		1959D9E622D8EDAD0050D75E /* 728. Self Dividing Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "728. Self Dividing Numbers.swift"; sourceTree = "<group>"; };
 		1959D9E822D9C87A0050D75E /* 461. Hamming Distance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "461. Hamming Distance.swift"; sourceTree = "<group>"; };
 		1959D9EA22DB7BC30050D75E /* 617. Merge Two Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "617. Merge Two Binary Trees.swift"; sourceTree = "<group>"; };
+		1959D9EC22DC0CB30050D75E /* 929. Unique Email Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "929. Unique Email Address.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				1959D9D822D830A00050D75E /* 1021. Remove Outermost Parantheses.swift */,
 				1959D9D622D825AF0050D75E /* 938. Range Sum of BST.swift */,
 				1959D9EA22DB7BC30050D75E /* 617. Merge Two Binary Trees.swift */,
+				1959D9EC22DC0CB30050D75E /* 929. Unique Email Address.swift */,
 				1959D9D422D821F90050D75E /* 709. To Lower Case.swift */,
 				1959D9D222D71CBE0050D75E /* 771. Jewels and Stones.swift */,
 				1959D9C722D714B20050D75E /* main.swift */,
@@ -169,6 +172,7 @@
 				1959D9E122D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift in Sources */,
 				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */,
+				1959D9ED22DC0CB30050D75E /* 929. Unique Email Address.swift in Sources */,
 				1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */,
 				1959D9EB22DB7BC30050D75E /* 617. Merge Two Binary Trees.swift in Sources */,
 				1959D9CF22D714C10050D75E /* 1. Two Sum.swift in Sources */,
