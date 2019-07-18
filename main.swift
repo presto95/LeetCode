@@ -8,13 +8,20 @@
 
 import Foundation
 
-let N = 4
-var first = 0
-var second = 1
-var third = first + second
-for _ in 2..<N {
-  first = second
-  second = third
-  third = first + second
+let text = "alice is a good girl she is a good student"
+let first = "a"
+let second = "good"
+
+var results = [String]()
+
+let splitted = text.components(separatedBy: " ")
+
+let count = splitted.count
+
+for i in 0..<count - 2 {
+  if splitted[i] == first && splitted[i + 1] == second {
+    results.append(splitted[i + 2])
+  }
 }
-print(third)
+
+print(results)
