@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		191692FC231A99E900EA8AC7 /* 561. Array Partition 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */; };
 		19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */; };
 		19497A3522E02E21007CE9AC /* 1078. Occurrences After Bigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */; };
 		1959D9C822D714B20050D75E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9C722D714B20050D75E /* main.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition 1.swift"; sourceTree = "<group>"; };
 		19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1078. Occurrences After Bigram.swift"; sourceTree = "<group>"; };
 		1959D9C422D714B20050D75E /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -81,6 +83,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */,
 				1959D9E422D8EB2C0050D75E /* 657. Robot Return to Origin.swift */,
 				1959D9E222D8E9DC0050D75E /* 977. Squares of a Sorted Array.swift */,
 				1959D9E022D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */,
+				191692FC231A99E900EA8AC7 /* 561. Array Partition 1.swift in Sources */,
 				19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */,
 				1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */,
 				1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */,
