@@ -6,7 +6,9 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
-func arrayPairSum(_ nums: [Int]) -> Int {
+/* Solution */
+
+private func arrayPairSum(_ nums: [Int]) -> Int {
   let sorted = nums.sorted(by: <)
   let count = nums.count / 2
   var result = 0
