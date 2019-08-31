@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		191692FC231A99E900EA8AC7 /* 561. Array Partition 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */; };
 		191692FE231A9D6400EA8AC7 /* 942. DI String Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191692FD231A9D6400EA8AC7 /* 942. DI String Match.swift */; };
+		19169300231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */; };
 		19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */; };
 		19497A3522E02E21007CE9AC /* 1078. Occurrences After Bigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */; };
 		1959D9C822D714B20050D75E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9C722D714B20050D75E /* main.swift */; };
@@ -47,6 +48,7 @@
 /* Begin PBXFileReference section */
 		191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition 1.swift"; sourceTree = "<group>"; };
 		191692FD231A9D6400EA8AC7 /* 942. DI String Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "942. DI String Match.swift"; sourceTree = "<group>"; };
+		191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1160. Find Words That Can Be Formed by Characters.swift"; sourceTree = "<group>"; };
 		19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1078. Occurrences After Bigram.swift"; sourceTree = "<group>"; };
 		1959D9C422D714B20050D75E /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -85,6 +87,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */,
 				191692FD231A9D6400EA8AC7 /* 942. DI String Match.swift */,
 				191692FB231A99E900EA8AC7 /* 561. Array Partition 1.swift */,
 				1959D9E422D8EB2C0050D75E /* 657. Robot Return to Origin.swift */,
@@ -195,6 +198,7 @@
 				1959D9E122D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift in Sources */,
 				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				19AF7CE422DD5E6800A4366B /* 1122. Relative Sort Array.swift in Sources */,
+				19169300231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift in Sources */,
 				1959D9DB22D846610050D75E /* 804. Unique Morse Code Words.swift in Sources */,
 				1959D9ED22DC0CB30050D75E /* 929. Unique Email Address.swift in Sources */,
 				1959D9DD22D872B40050D75E /* 832. Flipping an Image.swift in Sources */,
