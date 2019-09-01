@@ -21,10 +21,17 @@ private func minDeletionSize(_ A: [String]) -> Int {
   }
   
   for array in resultArray {
-    let sorted = array.sorted(by: <)
-    if sorted != array {
-      result += 1
+    let count = array.count
+    var isAscending = true
+    for index in 0..<count - 1 {
+      let first = array[index]
+      let second = array[index + 1]
+      if first > second {
+        isAscending.toggle()
+        break
+      }
     }
+    if !isAscending { result += 1 }
   }
   
   return result
