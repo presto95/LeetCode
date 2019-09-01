@@ -12,6 +12,7 @@
 		19169300231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */; };
 		19169302231AA5F100EA8AC7 /* 944. Delete Columns to Make Sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169301231AA5F100EA8AC7 /* 944. Delete Columns to Make Sorted.swift */; };
 		19169304231B8B4F00EA8AC7 /* 700. Search in a Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169303231B8B4F00EA8AC7 /* 700. Search in a Binary Search Tree.swift */; };
+		19169306231B8E8700EA8AC7 /* 1051. Height Checker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */; };
 		19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */; };
 		19497A3522E02E21007CE9AC /* 1078. Occurrences After Bigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */; };
 		1959D9C822D714B20050D75E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9C722D714B20050D75E /* main.swift */; };
@@ -53,6 +54,7 @@
 		191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1160. Find Words That Can Be Formed by Characters.swift"; sourceTree = "<group>"; };
 		19169301231AA5F100EA8AC7 /* 944. Delete Columns to Make Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "944. Delete Columns to Make Sorted.swift"; sourceTree = "<group>"; };
 		19169303231B8B4F00EA8AC7 /* 700. Search in a Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "700. Search in a Binary Search Tree.swift"; sourceTree = "<group>"; };
+		19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1051. Height Checker.swift"; sourceTree = "<group>"; };
 		19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1078. Occurrences After Bigram.swift"; sourceTree = "<group>"; };
 		1959D9C422D714B20050D75E /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -91,6 +93,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */,
 				19169303231B8B4F00EA8AC7 /* 700. Search in a Binary Search Tree.swift */,
 				19169301231AA5F100EA8AC7 /* 944. Delete Columns to Make Sorted.swift */,
 				191692FF231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift */,
@@ -192,6 +195,7 @@
 				1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */,
 				191692FE231A9D6400EA8AC7 /* 942. DI String Match.swift in Sources */,
 				1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */,
+				19169306231B8E8700EA8AC7 /* 1051. Height Checker.swift in Sources */,
 				1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */,
 				1959D9D922D830A00050D75E /* 1021. Remove Outermost Parantheses.swift in Sources */,
 				19169304231B8B4F00EA8AC7 /* 700. Search in a Binary Search Tree.swift in Sources */,
