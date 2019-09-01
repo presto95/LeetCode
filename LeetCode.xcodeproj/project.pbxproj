@@ -15,6 +15,7 @@
 		19169306231B8E8700EA8AC7 /* 1051. Height Checker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */; };
 		19169308231B90F100EA8AC7 /* 922. Sort Array By Parity II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169307231B90F100EA8AC7 /* 922. Sort Array By Parity II.swift */; };
 		1916930A231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */; };
+		1916930C231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */; };
 		19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */; };
 		19497A3522E02E21007CE9AC /* 1078. Occurrences After Bigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */; };
 		1959D9C822D714B20050D75E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9C722D714B20050D75E /* main.swift */; };
@@ -59,6 +60,7 @@
 		19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1051. Height Checker.swift"; sourceTree = "<group>"; };
 		19169307231B90F100EA8AC7 /* 922. Sort Array By Parity II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II.swift"; sourceTree = "<group>"; };
 		19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "965. Univalued Binary Tree.swift"; sourceTree = "<group>"; };
+		1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "811. Subdomain Visit Count.swift"; sourceTree = "<group>"; };
 		19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1078. Occurrences After Bigram.swift"; sourceTree = "<group>"; };
 		1959D9C422D714B20050D75E /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +99,7 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */,
 				19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */,
 				19169307231B90F100EA8AC7 /* 922. Sort Array By Parity II.swift */,
 				19169305231B8E8700EA8AC7 /* 1051. Height Checker.swift */,
@@ -215,6 +218,7 @@
 				1959D9E522D8EB2C0050D75E /* 657. Robot Return to Origin.swift in Sources */,
 				1959D9E922D9C87A0050D75E /* 461. Hamming Distance.swift in Sources */,
 				1959D9E122D8E78E0050D75E /* 961. N-Repeated Element in Size 2N Array.swift in Sources */,
+				1916930C231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift in Sources */,
 				1959D9D722D825AF0050D75E /* 938. Range Sum of BST.swift in Sources */,
 				19AF7CE422DD5E6800A4366B /* 1122. Relative Sort Array.swift in Sources */,
 				19169300231AA3AC00EA8AC7 /* 1160. Find Words That Can Be Formed by Characters.swift in Sources */,
