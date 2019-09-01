@@ -17,6 +17,8 @@
 		1916930A231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */; };
 		1916930C231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */; };
 		1916930E231B9F0F00EA8AC7 /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1916930D231B9F0F00EA8AC7 /* 876. Middle of the Linked List.swift */; };
+		19169310231BA0B200EA8AC7 /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1916930F231BA0B200EA8AC7 /* 557. Reverse Words in a String III.swift */; };
+		19169312231BD31500EA8AC7 /* 338. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19169311231BD31500EA8AC7 /* 338. Counting Bits.swift */; };
 		19497A3322DEB606007CE9AC /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */; };
 		19497A3522E02E21007CE9AC /* 1078. Occurrences After Bigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */; };
 		1959D9C822D714B20050D75E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1959D9C722D714B20050D75E /* main.swift */; };
@@ -63,6 +65,8 @@
 		19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "965. Univalued Binary Tree.swift"; sourceTree = "<group>"; };
 		1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "811. Subdomain Visit Count.swift"; sourceTree = "<group>"; };
 		1916930D231B9F0F00EA8AC7 /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
+		1916930F231BA0B200EA8AC7 /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
+		19169311231BD31500EA8AC7 /* 338. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "338. Counting Bits.swift"; sourceTree = "<group>"; };
 		19497A3222DEB606007CE9AC /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		19497A3422E02E21007CE9AC /* 1078. Occurrences After Bigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1078. Occurrences After Bigram.swift"; sourceTree = "<group>"; };
 		1959D9C422D714B20050D75E /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -101,6 +105,8 @@
 		1959D9BB22D714B20050D75E = {
 			isa = PBXGroup;
 			children = (
+				19169311231BD31500EA8AC7 /* 338. Counting Bits.swift */,
+				1916930F231BA0B200EA8AC7 /* 557. Reverse Words in a String III.swift */,
 				1916930D231B9F0F00EA8AC7 /* 876. Middle of the Linked List.swift */,
 				1916930B231B9CBA00EA8AC7 /* 811. Subdomain Visit Count.swift */,
 				19169309231B932B00EA8AC7 /* 965. Univalued Binary Tree.swift */,
@@ -201,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19169312231BD31500EA8AC7 /* 338. Counting Bits.swift in Sources */,
 				1959D9D122D717080050D75E /* 1108. Defanging an IP Address.swift in Sources */,
 				191692FC231A99E900EA8AC7 /* 561. Array Partition I.swift in Sources */,
 				1916930E231B9F0F00EA8AC7 /* 876. Middle of the Linked List.swift in Sources */,
@@ -208,6 +215,7 @@
 				1959D9DF22D87A1A0050D75E /* 905. Sort Array By Parity.swift in Sources */,
 				191692FE231A9D6400EA8AC7 /* 942. DI String Match.swift in Sources */,
 				19169308231B90F100EA8AC7 /* 922. Sort Array By Parity II.swift in Sources */,
+				19169310231BA0B200EA8AC7 /* 557. Reverse Words in a String III.swift in Sources */,
 				1959D9E722D8EDAD0050D75E /* 728. Self Dividing Numbers.swift in Sources */,
 				19169306231B8E8700EA8AC7 /* 1051. Height Checker.swift in Sources */,
 				1959D9D322D71CBE0050D75E /* 771. Jewels and Stones.swift in Sources */,
