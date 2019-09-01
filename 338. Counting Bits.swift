@@ -6,6 +6,7 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
+/* Solution */
 
 private func countBits(_ num: Int) -> [Int] {
   var dictionary = [Int: Int]()

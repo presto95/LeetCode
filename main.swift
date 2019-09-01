@@ -6,17 +6,21 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
-let num = 5
+let n = 15
+var result = [String]()
 
-var dictionary = [Int: Int]()
-var result = [Int]()
-
-for number in 0...num {
-  let quotient = number / 2
-  let remainder = number % 2
-  let memoization = dictionary[quotient] ?? 0
-  let current = remainder + memoization
-  dictionary[number] = current
-  result.append(current)
+for i in 1...n {
+  let isDividedByThree = i.isMultiple(of: 3)
+  let isDividedByFive = i.isMultiple(of: 5)
+  if isDividedByThree && isDividedByFive {
+    result.append("FizzBuzz")
+  } else if isDividedByThree {
+    result.append("Fizz")
+  } else if isDividedByFive {
+    result.append("Buzz")
+  } else {
+    result.append("\(i)")
+  }
 }
 
+print(result)
