@@ -6,6 +6,7 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
+/* Solution */
 
 private func heightChecker(_ heights: [Int]) -> Int {
   var result = 0

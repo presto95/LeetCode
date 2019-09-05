@@ -6,6 +6,8 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
+/* Solution */
+
 private func tribonacci(_ n: Int) -> Int {
   if n == 0 { return 0 }
   if n == 1 { return 1 }

@@ -8,7 +8,6 @@
 
 /* Solution */
 
-
 private func findOcurrences(_ text: String, _ first: String, _ second: String) -> [String] {
   var results = [String]()
   let splitted = text.components(separatedBy: " ")

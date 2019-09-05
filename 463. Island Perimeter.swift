@@ -8,7 +8,6 @@
 
 /* Solution */
 
-
 private func islandPerimeter(_ grid: [[Int]]) -> Int {
   let numberOfRows = grid.count
   let numberOfColumns = grid.first!.count

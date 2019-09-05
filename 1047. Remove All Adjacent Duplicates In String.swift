@@ -6,6 +6,7 @@
 //  Copyright © 2019 presto. All rights reserved.
 //
 
+/* Solution */
 
 private func removeDuplicates(_ S: String) -> String {
   var array = S.map { "\($0)" }
